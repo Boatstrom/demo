@@ -1,0 +1,1 @@
+class not registered (exception from hresult: 0x80040154(REGDB_E_CLASSNOTREG))
